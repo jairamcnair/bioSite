@@ -1,0 +1,40 @@
+body {
+    background-color: #910022;
+    margin: 50px;
+    font-family: Merriweather, serif;
+}
+
+#page {
+    background-image: url("images/page.png");
+    padding: 20px;
+    border: 2px solid black;
+    font-family: Merriweather, serif;
+
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+li {
+    display: inline;
+    padding: 50px;
+    text-align: center;
+    font-family: "Nunito", Arial, "sans-serif";
+    
+    
+}
+
+
+img {
+    border: 4px solid black;
+}
+
+a {
+    color: #FF581C;
+    font-weight: 700;
+}
