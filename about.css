@@ -38,3 +38,14 @@ a {
     color: #FF581C;
     font-weight: 700;
 }
+
+p {
+    border: 2px solid black;
+    font-size: 19px;
+    width: 1000px;
+    height: 100px;
+    padding: 20px;
+    background-color: #DBDBDB;
+    display: block;
+    margin: 0 auto;
+}
