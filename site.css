@@ -9,7 +9,7 @@ body {
     padding: 20px;
     border: 2px solid black;
     font-family: Merriweather, serif;
-    width: 98%;
+    min-width: 1000px;
     
 }
 

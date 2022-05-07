@@ -8,6 +8,7 @@ body {
     background-image: url("images/page.png");
     padding: 20px;
     border: 2px solid black;
+    min-width: 1000px;
     
 }
 
