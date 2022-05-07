@@ -10,8 +10,8 @@ body {
     padding: 20px;
     border: 2px solid black;
     font-family: Merriweather, serif;
-    width: 98%;
-    /*min-width: 1000px;*/
+    /*width: 98%;*/
+    min-width: 940px;
 
 }
 
@@ -45,7 +45,7 @@ a {
 p {
     border: 2px solid black;
     font-size: 19px;
-    min-width: 900px;
+    min-width: 800px;
     height: 100px;
     padding: 20px;
     background-color: #DBDBDB;
