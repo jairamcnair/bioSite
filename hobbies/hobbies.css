@@ -88,3 +88,29 @@ td {
     border: 2px solid black;
     padding: 20px;
 }
+
+table {
+    width: 100%;
+    height: auto;
+}
+
+td img {
+    width: 75%;
+    height: auto;
+}
+
+#picture1 {
+    width: 50%;
+    height: auto;
+}
+
+#picture2 {
+    width: 50%;
+    height: auto;
+}
+
+#picture3 {
+    width: 50%;
+    height: auto;
+}
+

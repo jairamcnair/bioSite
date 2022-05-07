@@ -17,6 +17,12 @@ body {
     
 }
 
+nav {
+    border: 2px solid black;
+    width: 100%;
+    height: auto;
+}
+
 header {
     text-align: center;
     background-image: url("images/page.png");
@@ -106,7 +112,28 @@ h3 {
 }
 
 table {
-    width: auto;
+    width: 100%;
+    height: auto;
+}
+
+td img {
+    width: 75%;
+    height: auto;
+}
+
+#picture1 {
+    width: 50%;
+    height: auto;
+}
+
+#picture2 {
+    width: 50%;
+    height: auto;
+}
+
+#picture3 {
+    width: 50%;
+    height: auto;
 }
 
 
