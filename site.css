@@ -4,7 +4,9 @@ body {
     font-family: Merriweather, serif;
 }
 
+
 #page {
+    
     background-image: url("images/page.png");
     background-repeat: repeat;
     padding: 20px;
@@ -33,10 +35,10 @@ li {
 
 img {
     width: 600px;
-    height: 600px;
     border: 4px solid black;
     margin-left: 4px;
     margin-top: 4px;
+    height: 600px;
     /*margin-left: 180px;*/
 }
 
@@ -62,15 +64,16 @@ div {
 p {
     border: 2px solid black;
     font-size: 19px;
-    min-width: 500px;
-    min-height: 250px;
     padding: 20px;
     background-color: #DBDBDB;
+
+    /*min-width: 500px;*/
+    /*min-height: 250px;*/
     /*float: right;*/
     
-    margin-right: 180px;
+    /*margin-right: 180px;
     margin-left: 170px;
-    margin-top: 90px;
+    margin-top: 90px;*/
     /*
     max-width: 500px;
     height: 350px;
@@ -83,18 +86,27 @@ p {
     
 }
 
-
+td {
+    border: 2px solid black;
+    padding: 20px;
+    
+}
 
 
 h3 {
     border: 2px solid black;
     font-size: 22px;
     font-weight: 300;
-    width: 1000px;
-    max-height: 500px;
+    /*width: 1000px;*/
+    /*max-height: 500px;*/
     padding: 20px;
     background-color: #DBDBDB;
     text-align: center;
-    margin-left: 350px;
+    /*margin-left: 350px;*/
 }
+
+table {
+    width: auto;
+}
+
 
