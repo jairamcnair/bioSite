@@ -10,7 +10,8 @@ body {
     padding: 20px;
     border: 2px solid black;
     font-family: Merriweather, serif;
-    min-width: 1000px;
+    /*min-width: 1000px;*/
+    width: 98%;
     
 }
 

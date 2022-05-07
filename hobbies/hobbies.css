@@ -9,8 +9,8 @@ body {
     background-repeat: repeat;
     padding: 20px;
     border: 2px solid black;
-    min-width: 1000px;
-    
+    /*min-width: 1000px;*/
+    width: 98%;
 }
 
 header {
