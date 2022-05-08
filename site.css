@@ -32,7 +32,8 @@ header {
 
 li {
     display: inline;
-    padding: 50px;
+    /*padding: 50px;*/
+    padding: 5%;
     text-align: center;
     font-family: "Nunito", Arial, "sans-serif";
     
@@ -52,9 +53,7 @@ img {
 
 
 
-.student {
-    vertical-align: top;
-}
+
 
 h1 {
     font-weight: 700;
@@ -72,7 +71,7 @@ div {
 
 p {
     border: 2px solid black;
-    font-size: 19px;
+    /*font-size: 19px;*/
     padding: 20px;
     background-color: #DBDBDB;
 

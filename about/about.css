@@ -25,7 +25,8 @@ h1 {
 
 li {
     display: inline;
-    padding: 50px;
+    /*padding: 50px;*/
+    padding: 5%;
     text-align: center;
     font-family: "Nunito", Arial, "sans-serif";
     
@@ -47,7 +48,7 @@ a {
 
 p {
     border: 2px solid black;
-    font-size: 19px;
+    /*font-size: 19px;*/
     /*min-width: 800px;*/
     /*height: 100px;*/
     padding: 20px;
