@@ -35,7 +35,6 @@ header {
 
 li {
     display: inline;
-    /*padding: 50px;*/
     padding: 5%;
     text-align: center;
     font-family: "Nunito", Arial, "sans-serif";
@@ -74,7 +73,7 @@ p {
 }
 
 td {
-    border: 4px solid black;
+    border: 2px solid black;
     padding: 1%
 }
 
