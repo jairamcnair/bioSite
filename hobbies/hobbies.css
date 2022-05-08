@@ -61,16 +61,15 @@ div {
 
 p {
     border: 2px solid black;
-    padding: 20px;
+    padding: 2%;
     background-color: #DBDBDB;
 }
 
 
 h3 {
     border: 2px solid black;
-    font-size: 22px;
     font-weight: 300;
-    padding: 20px;
+    padding: 1%;
     background-color: #DBDBDB;
     text-align: center;
 }
