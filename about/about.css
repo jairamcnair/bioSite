@@ -19,6 +19,12 @@ header {
     text-align: center;
 }
 
+nav {
+    border: 2px solid black;
+    width: 100%;
+    height: auto;
+}
+
 h1 {
     font-weight: 700;
 }
